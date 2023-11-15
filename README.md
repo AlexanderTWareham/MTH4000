@@ -1,2 +1,2 @@
 # MTH4000
-Programming module zt QMUL
+Programming module at QMUL
